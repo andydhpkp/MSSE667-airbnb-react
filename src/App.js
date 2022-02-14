@@ -1,16 +1,3 @@
-/* import React, {Component} from 'react'
-
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <h1>Hello, World Implementation!</h1>
-      </div>
-    )
-  }
-}
-
-export default App */
 
 import React, { useState } from "react";
 import axios from "axios";
